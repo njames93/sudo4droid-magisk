@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=sudo4droid-magisk
+name=Sudo4Droid
 version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+versionCode=2
+author=PorygonZRocks
+description=Sudo for Android (requires MagiskSU)
 minMagisk=1500
